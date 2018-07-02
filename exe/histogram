@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'histogram/cli'
+Histogram::CLI.start
